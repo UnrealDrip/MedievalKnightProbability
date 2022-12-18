@@ -1,0 +1,116 @@
+AaA		LKM *2
+AaD		LKM 
+AaA		LKM 
+AdA		LKM
+AdD		LKM
+AdA		LKM
+AhA		LKM 
+AhD		LKM
+AhA		LKM
+DaA		LKM 
+DaD		LKM 
+DaA		LKM 
+DdA		LKM 
+DdD		LKM 
+DdA		LKM 
+DhA		LKM 
+DhD		LKM 
+DhA		LKM 
+
+AaA
+Win :15602422
+Loss :113538389
+Count :129140811
+Probability :1.37515e-311
+
+AaA
+Win :15602422
+Loss :113538389
+Count :129140811
+Probability :1.37515e-311
+
+AaD
+Win :6999479
+Loss :122141224
+Count :129140703
+Probability :1.14605e-311
+
+AdA
+Win :6999478
+Loss :122141278
+Count :129140756
+Probability :1.25868e-311
+
+AdD
+Win :3128182
+Loss :126012584
+Count :129140766
+Probability :1.28093e-311
+
+AdA
+Win :6999478
+Loss :122141278
+Count :129140756
+Probability :1.25868e-311
+
+AhA
+Win :15602422
+Loss :113538092
+Count :129140514
+Probability :7.46325e-312
+
+AhD
+Win :6999478
+Loss :122141196
+Count :129140674
+Probability :1.08608e-311
+
+AhA
+Win :15602422
+Loss :113538092
+Count :129140514
+Probability :7.46325e-312
+
+DaA
+Win :6360118
+Loss :122780685
+Count :129140803
+Probability :1.35935e-311
+
+DaD
+Win :3128182
+Loss :126012426
+Count :129140608
+Probability :9.45582e-312
+
+DaA
+Win :6360118
+Loss :122780685
+Count :129140803
+Probability :1.35935e-311
+
+DdA
+Win :6999478
+Loss :122141240
+Count :129140718
+Probability :1.1789e-311
+
+DdD
+Win :3128182
+Loss :126012438
+Count :129140620
+Probability :9.70738e-312
+
+DdA
+Win :6999478
+Loss :122141240
+Count :129140718
+Probability :1.1789e-311
+
+DhA
+Win :6999478
+Loss :122141234
+Count :129140712
+Probability :1.16657e-311
+
+DhD
